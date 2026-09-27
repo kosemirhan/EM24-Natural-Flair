@@ -1,0 +1,112 @@
+{
+  "version": "v1.1 Duels",
+  "v1_source_sha256": "4f2325222021b2573006fd1e5219e5e86a9bdcb54331e3610adcc872296c1b06",
+  "output_sha256": "2dc6d9e2d1321640653fab06fe52fa1237e37180804590696da7017b724cf280",
+  "resources_preserved": 109,
+  "contact_parameters_changed_from_v1": 10,
+  "physics_parameters_total": 28,
+  "reproducible_from_original": true,
+  "gameplay_tested": false,
+  "changes_from_v1": {
+    "min_delay_for_ball_lunge_do": {
+      "before": [
+        1500,
+        1500
+      ],
+      "after": [
+        1460,
+        1460
+      ]
+    },
+    "min_delay_for_ball_lunge_receive": {
+      "before": [
+        770,
+        770
+      ],
+      "after": [
+        790,
+        790
+      ]
+    },
+    "min_delay_for_block_tackle_do": {
+      "before": [
+        500,
+        500
+      ],
+      "after": [
+        470,
+        470
+      ]
+    },
+    "min_delay_for_block_tackle_receive": {
+      "before": [
+        775,
+        775
+      ],
+      "after": [
+        800,
+        800
+      ]
+    },
+    "min_delay_for_force_opponent_to_lose_ball_do": {
+      "before": [
+        500,
+        500
+      ],
+      "after": [
+        470,
+        470
+      ]
+    },
+    "min_delay_for_force_opponent_to_lose_ball_receive": {
+      "before": [
+        500,
+        500
+      ],
+      "after": [
+        525,
+        525
+      ]
+    },
+    "min_delay_for_shoulder_charge_do": {
+      "before": [
+        500,
+        500
+      ],
+      "after": [
+        470,
+        470
+      ]
+    },
+    "min_delay_for_shoulder_charge_receive": {
+      "before": [
+        2050,
+        2050
+      ],
+      "after": [
+        2130,
+        2130
+      ]
+    },
+    "min_delay_for_slide_tackle_do": {
+      "before": [
+        1500,
+        1500
+      ],
+      "after": [
+        1450,
+        1450
+      ]
+    },
+    "min_delay_for_slide_tackle_receive": {
+      "before": [
+        780,
+        780
+      ],
+      "after": [
+        815,
+        815
+      ]
+    }
+  }
+}
