@@ -1,4 +1,4 @@
-# EM24 Natural Flair v1.1 — Aggressive Duels
+# EM24 Natural Flair v1 
 
 **Experimental match-physics modification for Football Manager 2024.**
 
